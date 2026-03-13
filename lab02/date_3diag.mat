@@ -1,0 +1,71 @@
+# Created by Octave 11.1.0, Wed Mar 11 02:58:40 2026 UTC
+# name: A
+# type: matrix
+# rows: 3
+# columns: 3
+ 1 2 1
+ 2 5 2
+ 1 2 2
+
+
+# name: L
+# type: matrix
+# rows: 4
+# columns: 4
+ 1 0 0 0
+ 3 1 0 0
+ 0 2 2 0
+ 0 0 1 2
+
+
+# name: U
+# type: matrix
+# rows: 4
+# columns: 4
+ 1 2 0 0
+ 0 1 4 0
+ 0 0 1 3
+ 0 0 0 1
+
+
+# name: a
+# type: matrix
+# rows: 1
+# columns: 4
+ 1 7 10 5
+
+
+# name: ans
+# type: matrix
+# rows: 4
+# columns: 1
+ 1
+ 1
+ 1
+ 1
+
+
+# name: b
+# type: matrix
+# rows: 4
+# columns: 1
+ 3
+ 14
+ 18
+ 6
+
+
+# name: c
+# type: matrix
+# rows: 1
+# columns: 3
+ 2 4 6
+
+
+# name: d
+# type: matrix
+# rows: 1
+# columns: 3
+ 3 2 1
+
+
